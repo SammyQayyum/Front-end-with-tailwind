@@ -1,4 +1,4 @@
 # Front-end-with-tailwind
 1st repo 
 <br>
-auther Samama Abdul Qayyum
+auther Samama aka Sammy
